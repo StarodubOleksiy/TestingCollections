@@ -1,0 +1,4 @@
+ArrayList 	add = 3303606	get = 882981	contains = 462112183	remove = 21583905	populate = 23638	test_iterator_remove = 10304518
+LinkedList 	add = 1702001	get = 90715408	contains = 455987010	remove = 40144485	populate = 31737	test_iterator_remove = 2081493
+HashSet 	 add = 4341676	 contains = 1996523	 remove = 2139415	populate = 18663
+TreeSet 	 add = 7741107	 contains = 3130264	 remove = 5213017	populate = 14337
